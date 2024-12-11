@@ -1,0 +1,20 @@
+{
+  "name": "new_job",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "par_run": "parcel index.html",
+    "par_bd": parcel build.html
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "description": "",
+
+ "dependencies": {
+  "express": "^4.21.1",
+  "pg": "^8.13.1"
+ },
+ "devDependencies": {
+  "parcel": "^2.13.2"
+ }
+}
